@@ -12,7 +12,7 @@ III- Analysis of the relation between the characters and their evolution in the 
 
 IV- Constitution of the recommandation algorithm
 
-# I- Preliminary Analysis
+## I- Preliminary Analysis
 
 The first analysis is based on the public dataset available here : https://github.com/nt03/HarryPotter_fanfics/tree/master/ffnet, or in Kaggle Dataset : https://www.kaggle.com/datasets/nehatiwari03/harry-potter-fanfiction-data
 
