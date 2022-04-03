@@ -3,9 +3,13 @@ This project aims at analysing the stories published in the Harry Potter section
 The key objective is to create a recommandation algorithm which would identify the similarities in the stories in terms of narrative structures and tropes, independently of the characters in the story.
 
 This project will be structured in four main steps :
+
 I- Preliminary Analysis based on the summary and metadata of all stories
+
 II- Scraping of the stories on a restricted corpus and constitution of a Database
+
 III- Analysis of the relation between the characters and their evolution in the story
+
 IV- Constitution of the recommandation algorithm
 
 # I- Preliminary Analysis
