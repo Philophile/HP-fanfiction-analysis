@@ -1,6 +1,7 @@
 # HP fanfiction analysis
-This project aims at analysing the stories published in the Harry Potter section of fanfiction.net (https://www.fanfiction.net/book/Harry-Potter/).
-The key objective is to create a recommandation algorithm which would identify the similarities in the stories in terms of narrative structures and tropes, independently of the characters in the story.
+This project analyses the fanfictions on Harry Potter in order to construct a recommandation algorithm identifying the similarities in terms of narrative structure and tropes, independently of the characters in the story.
+
+This projects is based on the stories published in the Harry Potter section of fanfiction.net (https://www.fanfiction.net/book/Harry-Potter/).
 
 This project will be structured in four main steps :
 
